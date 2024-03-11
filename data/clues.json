@@ -1,0 +1,52 @@
+{
+    "1":[
+      {
+        "id": 1,
+        "description": "Miss Hawthorn received an anonymous letter that warned her against digging into the village's past. The handwriting was disguised, but the choice of words suggested someone with a deep knowledge of the village's history and secrets. A unique phrase in the letter, 'the shadows of history are best left undisturbed,' was also found in a book published by Mr. Henry Archer."
+      },
+      {
+        "id": 2,
+        "description": "Mr. George Baker provided an alibi, stating he was at a dinner party the night Miss Hawthorn died. However, upon further investigation, it was revealed that Mr. Baker had actually left the party early, a fact corroborated by several guests who noticed his absence later in the evening."
+      },
+      {
+        "id": 3,
+        "description": "The book Miss Hawthorn was reading before her death was a rare volume about the founding families of Elderwood. This book was last checked out by Mr. Henry Archer, who failed to mention this particular detail during his initial interview with Constable Weller."
+      },
+      {
+        "id": 4,
+        "description": "The key found in Miss Hawthorn's hand unlocked her personal diary, which contained her discoveries and fears regarding the Elderwood Chalice and its true history. It also mentioned a recent argument with Mr. Henry Archer about how to best protect the chalice's secrets, suggesting that their interests in the village's history were not aligned."
+      },
+      {
+        "id": 5,
+        "description": "While it appeared that Mr. George Baker had a clear motive related to the disputed land adjacent to the library, further investigation into the library's records revealed that Miss Hawthorn had recently come to an agreement with Mr. Baker, effectively resolving their dispute amicably. This significantly diminished his motive for harming Miss Hawthorn."
+      },
+     {
+      "killer": "Mr. Henry Archer",
+      "motive": "His motive stemmed from a desire to control the narrative of Elderwood's history and to keep the power of the Elderwood Chalice's secret to himself, fearing that Miss Hawthorn's discoveries would disrupt the historical significance and value he had built around Elderwood's founding families."
+    }
+],
+"2":[{
+  "id": 1,
+  "description": "Miss Hawthorn received an anonymous letter that warned her against digging into the village's past. The handwriting was disguised, but the choice of words suggested someone with a deep knowledge of the village's history and secrets. A unique phrase in the letter, 'the shadows of history are best left undisturbed,' was also found in a book published by Mr. Henry Archer."
+  },
+  {
+  "id": 2,
+  "description": "Mr. George Baker provided an alibi, stating he was at a dinner party the night Miss Hawthorn died. However, upon further investigation, it was revealed that Mr. Baker had actually left the party early, a fact corroborated by several guests who noticed his absence later in the evening."
+  },
+  {
+  "id": 3,
+  "description": "The book Miss Hawthorn was reading before her death was a rare volume about the founding families of Elderwood. This book was last checked out by Mr. Henry Archer, who failed to mention this particular detail during his initial interview with Constable Weller."
+  },
+  {
+  "id": 4,
+  "description": "The key found in Miss Hawthorn's hand unlocked her personal diary, which contained her discoveries and fears regarding the Elderwood Chalice and its true history. It also mentioned a recent argument with Mr. Henry Archer about how to best protect the chalice's secrets, suggesting that their interests in the village's history were not aligned."
+  },
+  {
+  "id": 5,
+  "description": "While it appeared that Mr. George Baker had a clear motive related to the disputed land adjacent to the library, further investigation into the library's records revealed that Miss Hawthorn had recently come to an agreement with Mr. Baker, effectively resolving their dispute amicably. This significantly diminished his motive for harming Miss Hawthorn."
+  },{
+  "killer": "Mr. Henry Archer",
+  "motive": "His motive stemmed from a desire to control the narrative of Elderwood's history and to keep the power of the Elderwood Chalice's secret to himself, fearing that Miss Hawthorn's discoveries would disrupt the historical significance and value he had built around Elderwood's founding families."
+}]
+}
+  
